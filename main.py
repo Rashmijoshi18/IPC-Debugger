@@ -15,7 +15,7 @@ def main():
     """
     
     # 1. 🧠 Analyzer Initialization
-    # This class replaces the old Scheduler. It contains the logic to poll system data.
+    
     analyzer = RealTimeAnalyzer()
 
     # 2. 🖥️ GUI Initialization and Execution (Tkinter)
